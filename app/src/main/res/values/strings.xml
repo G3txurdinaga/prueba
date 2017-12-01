@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="frase1">Hola amigüito, hoy tu y yo haremos un viaje</string>
+    <string name="frase2">recuerda que para viajar no hace falta que tomes nada</string>
+    <string name="frase3">Y nunca aceptes nada que te de un extraño, sobre todo si es un payaso en una alcantarilla, en plan oye niño acercate, quieres un globo, ven aqui, aqui abajo todos flotan, tu tb podrias flotar, solo tienes que comerte esta pirulilla, ya veras que globo!!!!!!!! o un tipo raro en una furgoneta...</string>
+    <string name="frase4">sigue el camino hasta el siguiente punto, Suerte!!!!</string>
+    <string name="btntexto">Siguiente</string>
+</resources>
